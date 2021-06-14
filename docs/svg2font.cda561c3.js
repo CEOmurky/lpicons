@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"../files":"ROm1"}],"QCba":[function(require,module,exports) {
 "use strict";var e=require("./src/custom"),r=require("./src/icon-manager"),n=".logpresso-icon-viewer",o="search-bar-input";window.onload=function(){var o=document.body.querySelector(n);o.innerHTML="";new r.IconManager(o),new e.Custom};
 },{"./src/custom":"zhWN","./src/icon-manager":"E2sd"}]},{},["QCba"], null)
-//# sourceMappingURL=/lpicons/svg2font.cda561c3.js.map
+//# sourceMappingURL=svg2font.cda561c3.js.map
