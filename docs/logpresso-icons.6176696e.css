@@ -2,9 +2,9 @@
   font-family: 'logpresso-icons';
   font-style: normal;
   font-weight: 400;
-  src: url("/logpresso-icons.ada7c805.eot?3897c636c748bfc515e873a7b429867d?#iefix") format("embedded-opentype"),
-url("/logpresso-icons.11197977.woff2?3897c636c748bfc515e873a7b429867d") format("woff2"),
-url("/logpresso-icons.54a362a4.woff?3897c636c748bfc515e873a7b429867d") format("woff");
+  src: url("./logpresso-icons.ada7c805.eot?3897c636c748bfc515e873a7b429867d?#iefix") format("embedded-opentype"),
+url("./logpresso-icons.11197977.woff2?3897c636c748bfc515e873a7b429867d") format("woff2"),
+url("./logpresso-icons.54a362a4.woff?3897c636c748bfc515e873a7b429867d") format("woff");
 }
 
 .lp-icon, .lp-icons {
